@@ -18,6 +18,8 @@ El modelo **LSTM** obtuvo el mejor desempeño en las tres métricas, con una red
 
 Los tres modelos, al ser univariados, fallaron en anticipar la caída abrupta de demanda durante el estiaje (sep–dic 2024), ya que esta respondió a restricciones de oferta y no a un patrón interno de consumo.
 
+<img width="1706" height="714" alt="image" src="https://github.com/user-attachments/assets/c9c580ca-b1fb-4701-96f2-d2eb2e06581d" />
+
 ## Stack técnico
 
 - **Python** — pandas, numpy
